@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044841510046",
+    "firebase_url": "https://laps20.firebaseio.com",
+    "project_id": "laps20",
+    "storage_bucket": "laps20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044841510046:android:36088a1787e5fb4dbbf78f",
+        "android_client_info": {
+          "package_name": "com.example.laps20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044841510046-t8j04b226bcc49tn0f56ul5ok2osudkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laps20",
+            "certificate_hash": "19882c9162f1bcf91538d6e34218fa5444822b97"
+          }
+        },
+        {
+          "client_id": "1044841510046-u4pgkdgo1rgk8gb6nvfqhuasqjrffqav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmqQmN0ctZJa_dNRC3BKO-sI8ho72bpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044841510046-u4pgkdgo1rgk8gb6nvfqhuasqjrffqav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
